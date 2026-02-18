@@ -1,0 +1,18 @@
+# Environment
+.env
+venv/
+__pycache__/
+.idea/
+
+# Datasets
+DeepFakeShield/Dataset/
+DeepFakeShield/SplitData/
+LocalDescriptor/Dataset/
+LocalDescriptor/SplitData/
+Dataset/
+RawDataset/
+Real/
+Fake/
+
+
+
