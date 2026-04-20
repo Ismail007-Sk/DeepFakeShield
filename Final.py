@@ -20,10 +20,10 @@ st.set_page_config(
 IMG_SIZE = 224
 RESIZE_DIM = (128, 128)
 LPQ_WINDOW = 3
-FRAME_STEP = 10
+FRAME_STEP = 5
 
-W_LD = 0.7
-W_DL = 0.3
+W_LD = 0.3
+W_DL = 0.7
 
 IMAGE_EXT = [".jpg", ".jpeg", ".png", ".bmp", ".webp",".heic"]
 VIDEO_EXT = [".mp4", ".avi", ".mov", ".mkv"]

@@ -10,7 +10,7 @@ from WLD import wld
 RESIZE_DIM = (128, 128)
 
 LPQ_WINDOW = 3
-FRAME_STEP = 90   # take every 10th frame
+FRAME_STEP = 1   # take every 10th frame
 
 IMAGE_EXT = [".jpg", ".jpeg", ".png", ".bmp", ".webp",".heic"]
 VIDEO_EXT = [".mp4", ".avi", ".mov", ".mkv"]
