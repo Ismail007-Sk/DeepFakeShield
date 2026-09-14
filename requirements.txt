@@ -10,3 +10,5 @@ Pillow
 albumentations==1.4.3
 cvzone
 mediapipe==0.10.21
+torch==2.7.1
+torchvision==0.22.1
